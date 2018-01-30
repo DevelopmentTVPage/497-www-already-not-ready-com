@@ -1,0 +1,15 @@
+{
+    "title": "Already",
+    "baseURL": "https:\/\/www.already-not-ready.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "already-not-ready.com"
+    }
+}
